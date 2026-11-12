@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ross Elopre Portfolio
 This is my personal portfolio website designed to host whatever I'm currently focused on, goals I have set and stories I have to share. 
 I developed this website without the frameworks in mind to put my web design skills to the test.
@@ -11,3 +12,6 @@ I developed this website without the frameworks in mind to put my web design ski
 - script.js — theme toggle and small interactive behavior
 - assets/ — images and other static assets
 
+=======
+# EldreiAcero.github.io
+>>>>>>> 0dac2a0b2f303cbc4e6f101cf906dd601e2b3aca
